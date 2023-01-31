@@ -39,5 +39,15 @@ public class OperadoresRelacionais {
         System.out.println("s1 == s3" + (s1 == s3));
         System.out.println("s1 != s2" + (s1 != s2));
 
+        System.out.println("b1 == b2" + (b1 == b2));
+        System.out.println("b1 != b2" + (b1 != b2));
+
+        System.out.println("i2 > f1" + (i2 > f1));
+        System.out.println("d1 == h1" + (d1 == h1));
+
+        System.out.println("l1 == i2" + (l1 == i2));
+        System.out.println("l2 >= i1" + (l2 >= i1));
+        System.out.println("y1 != h2" + (y1 != h1));
+
     }
 }
